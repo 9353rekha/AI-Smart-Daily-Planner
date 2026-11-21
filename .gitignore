@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database
+*.db
+*.sqlite3
+
+# React
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editor and system files
+.vscode/
+.DS_Store
